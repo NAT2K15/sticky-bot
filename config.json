@@ -1,0 +1,17 @@
+{
+    "token": "",
+
+    "invite": "https://discord.com/api/oauth2/authorize?client_id=815383924784103424&permissions=76816&scope=bot",
+    "guild": {
+        "main_guild": "778812156925181966",
+        "main_servers": "815434654466572330",
+        "error": "813936707644555324"
+    },
+
+    "daabase": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "name": "sticky"
+    }
+}
